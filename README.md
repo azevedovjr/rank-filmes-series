@@ -10,3 +10,6 @@ Uma página simples exibindo meu ranking pessoal de filmes e séries favoritos.
 
 ## Objetivo
 Projeto criado durante meus estudos de Desenvolvimento Web.
+
+## Preview
+![Ranking de Filmes e Séries](ranking.png)
